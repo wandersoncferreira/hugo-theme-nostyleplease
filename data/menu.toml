@@ -8,6 +8,9 @@ title = "info"
   title = "github repo"
   url = "https://github.com/wandersoncferreira"
 
+  [[entries.entries]]
+  title = "follow me on <a href='https://wandersoncferreira.github.io/index.xml'>rss</a>"
+
 [[entries]]
 title = "all posts"
 
@@ -18,14 +21,4 @@ title = "all posts"
   show_more_url = "posts"
 
 [[entries]]
-title = "posts by category"
-
-  [entries.post_list]
-  section = "posts"
-  show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "posts"
-
-[[entries]]
-title = "rss"
-url = "index.xml"
+title = "posts by <a href='https://wandersoncferreira.github.io/tags/'>tags</a>"
